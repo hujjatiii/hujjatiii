@@ -3,10 +3,14 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-Name: Sayed Hojjat 
-Last Name: Mousavinezhad
-Birthday: August, 31, 2002
-I'm student of computer engineering and this year is my first year.
+sayedhojjat.m@gmail.com
+
+
+
+
+
+
+
 <!---
 hujjatiii/hujjatiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
