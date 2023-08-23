@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @hujjatiii
-- 👀 I’m interested in Programming ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-sayedhojjat.m@gmail.com
-
-
-
+AppSec | Full-Stack | Computer Engineering
 
 
 
