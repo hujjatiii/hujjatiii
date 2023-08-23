@@ -1,4 +1,4 @@
-AppSec | Full-Stack | Computer Engineering
+AppSec | Full-Stack | Computer Engineering Student
 
 
 
