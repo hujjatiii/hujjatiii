@@ -1,5 +1,4 @@
-AppSec | Full-Stack | Computer Engineering Student
-
+.
 
 
 
